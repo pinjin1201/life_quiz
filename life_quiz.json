@@ -79,6 +79,19 @@
       "image": "https://images.unsplash.com/photo-1563016115-85abfc230672?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmFkZ2VyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
       "detail_url": "維基百科-蜜獾-2022/02/19",
       "detail": "蜜獾是具有極其敏銳嗅覺的兇猛肉食性動物，最為人熟知的就是牠們的獵蛇本領，牠們用爪子將抓住蛇的後頸再用強韌的下顎殺死它，蜜獾可以在15分鐘內吞噬整條蛇（長150公分以下）。國家地理頻道一部蜜獾紀錄片中，記載了一隻蜜獾吃老鼠、攻入蜂巢吃幼蜂、獵殺一條蛇並把牠吃掉，幾乎有什麼吃什麼。這種無所畏懼的天性也使蜜獾在金氏紀錄中好幾次被稱為「世界上最無所畏懼的動物」。"
+    },
+    {
+      "id": 6,
+      "question": "下列是堅硬程度大到小的排列，哪個選項是正確的 ?",
+      "answer": "牙齒 > 不鏽鋼 > 鐵 > 貝殼 > 冰塊",
+      "wrong": [
+        "鐵 > 不鏽鋼 > 牙齒 > 冰塊 > 貝殼",
+        "不鏽鋼 > 鐵 > 牙齒 > 冰塊 > 貝殼",
+        "貝殼 > 鐵 > 不鏽鋼 > 牙齒 > 冰塊",
+      ],
+      "image": "https://images.unsplash.com/photo-1584650589355-e891970a9081?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGVldGh8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+      "detail_url": "每日頭條-健康-牙齒到底有多硬？ From 牙偵探事務所-2022/02/19",
+      "detail": "牙齒 硬度6~7 \n 不鏽鋼 硬度5.5 \n 鐵 硬度4~5 \n 貝殼 硬度3.5 \n 冰塊 硬度2~3"
     }
   ]
 }
